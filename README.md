@@ -1,7 +1,7 @@
 # covidML
 CovidML
 
-Tasarım Aşamaları
+Tasarım Aşamaları\n
 COVİD-19 hastalarının çekilen akciğer X-RAY’lerine bağlı olarak hangi evrede olduğunu öğrenmeye çalışmak.
 A ML Solution
 Öncelikle ne kadar hastalarımızın COVİD-19 olduğunu bilerek X-RAY görüntülerini alarak hangi evrede olduğunu söylemiş olsakta, 
